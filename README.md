@@ -1,20 +1,41 @@
-# Sales Performance Dashboard — Tableau
+# 📊 Sales Performance Dashboard (Tableau)
 
-## Overview
-A Tableau dashboard built to analyze sales performance 
-through structured visual storytelling and custom metrics.
+## 📖 Overview
+This project presents a sales performance dashboard built using Tableau.  
+The dashboard focuses on tracking key business metrics and identifying top-performing customers over time.
 
-## Tools & Techniques
-- Calculated Fields — custom KPIs and business metrics
-- Story Points — guided narrative across multiple sheets
-- Multi-sheet Layout — breaking insights into focused views
+---
 
-## What the Dashboard Shows
-- Revenue and sales trends over time
-- Category and segment performance breakdowns
-- Step-by-step story guiding key business findings
+## 🛠 Tools & Technologies
+- Tableau  
+- Data Visualization  
+- Interactive Dashboards  
 
-## Notes
-Built after the Excel Sales Dashboard — this project 
-focuses on visual depth and narrative structure that 
-static spreadsheets can't provide.
+---
+
+## 📊 Key Insights
+- Total number of customers per month  
+- Total sales per month  
+- Total number of orders per month  
+- Top 10 customers ranked by profit  
+- Customer distribution analysis  
+
+---
+
+## 📁 Dataset
+- Sales dataset  
+
+---
+
+## 🎯 What I Learned
+- Designing dashboards using Tableau  
+- Tracking KPIs and business metrics  
+- Identifying high-value customers  
+- Creating clear and interactive visualizations  
+
+---
+
+## 🚀 Future Improvements
+- Add customer segmentation analysis  
+- Include geographic insights  
+- Enhance dashboard interactivity with advanced filters  
